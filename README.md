@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🤗, I'm Aadit Ambadkar</h1>
 <h3 align="center">An enthusiastic programmer from Redmond, Washington</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aadit-ambadkar&label=Profile%20views&color=0e75b6&style=flat" alt="aadit-ambadkar" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aadit-ambadkar&label=Profile%20views&color=0e75b6&style=flat" alt="aadit-ambadkar" /> </p>
 
 - 🔭 I’m currently working on **Thoracic Abnormalities Classification and Detection**
 
