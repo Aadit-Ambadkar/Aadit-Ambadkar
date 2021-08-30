@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **aadit.ambadkar@gmail.com**
 
-- ⚡ Fun fact **I work best in an unorganized enviornment!**
+- ⚡ Fun fact **I work best in an organized enviornment!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
