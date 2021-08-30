@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **Thoracic Abnormalities Classification and Detection**
 
-- 🌱 I’m currently learning **React/MongoDB**
+- 🌱 I’m currently learning **Advanced Competitive Programming and Deep Learing for Image Classification, Detection, and Segmentation**
 
 - 👯 I’m looking to collaborate on **Frontend Work with Tailwind CSS and React!**
 
 - 👨‍💻 Most of my projects are available here, or at [https://aadit-ambadkar.github.io/blog/about.html#Projects](https://aadit-ambadkar.github.io/blog/about.html#Projects)
 
-- 📝 I regularly write articles on [https://aadit-ambadkar.medium.com/](https://aadit-ambadkar.medium.com/)
+- 📝 I write articles on [https://aadit-ambadkar.medium.com/](https://aadit-ambadkar.medium.com/)
 
 - 📫 How to reach me **aadit.ambadkar@gmail.com**
 
