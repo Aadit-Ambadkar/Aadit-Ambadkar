@@ -1,22 +1,6 @@
 <h1 align="center">Hi 🤗, I'm Aadit Ambadkar</h1>
 <h3 align="center">An enthusiastic programmer from Redmond, Washington</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=aadit-ambadkar&label=Profile%20views&color=0e75b6&style=flat" alt="aadit-ambadkar" /> </p>
-
-- 🔭 I’m currently working on **Thoracic Abnormalities Classification and Detection**
-
-- 🌱 I’m currently learning **Advanced Competitive Programming and Deep Learing for Image Classification, Detection, and Segmentation**
-
-- 👯 I’m looking to collaborate on **Frontend Work with Tailwind CSS and React!**
-
-- 👨‍💻 Most of my projects are available here, or at [https://aadit-ambadkar.github.io/blog/about.html#Projects](https://aadit-ambadkar.github.io/blog/about.html#Projects)
-
-- 📝 I write articles on [https://aadit-ambadkar.medium.com/](https://aadit-ambadkar.medium.com/)
-
-- 📫 How to reach me **aadit.ambadkar@gmail.com**
-
-- ⚡ Fun fact **I work best in an organized enviornment!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://medium.com/@aadit-ambadkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aadit-ambadkar" height="30" width="40" /></a>
