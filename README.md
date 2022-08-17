@@ -1,6 +1,6 @@
 <h1 align="center">Hi 🤗, I'm Aadit Ambadkar</h1>
 <h3 align="center">An enthusiastic programmer from Redmond, Washington</h3>
-
+<p> <img src="https://komarev.com/ghpvc/?username=aadit-ambadkar" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/aaditambadkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aaditambadkar" height="30" width="40" /></a>
